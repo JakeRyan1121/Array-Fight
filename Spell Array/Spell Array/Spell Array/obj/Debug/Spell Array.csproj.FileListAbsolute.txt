@@ -1,0 +1,10 @@
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\bin\Debug\Spell Array.exe.config
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\bin\Debug\Spell Array.exe
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\bin\Debug\Spell Array.pdb
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\obj\Debug\Spell Array.csprojAssemblyReference.cache
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\obj\Debug\Spell_Array.Form1.resources
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\obj\Debug\Spell_Array.Properties.Resources.resources
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\obj\Debug\Spell Array.csproj.GenerateResource.cache
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\obj\Debug\Spell Array.csproj.CoreCompileInputs.cache
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\obj\Debug\Spell Array.exe
+\\H0445SFS04\Home$\Students\9353242\Downloads\Spell Array\Spell Array\Spell Array\obj\Debug\Spell Array.pdb
